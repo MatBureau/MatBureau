@@ -2,4 +2,4 @@
 
 <a href="https://app.daily.dev/Matbureau"><img src="https://github.com/MatBureau/MatBureau/blob/main/devcard.svg" width="400" alt="Mat's Dev Card"/></a>
 
-find my resumé here : matbureau.github.io
+find my resumé here : <href>matbureau.github.io</href>
